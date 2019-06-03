@@ -3,19 +3,12 @@
 > A Vue.js project
 
 ## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+项目实例参考：https://www.cnblogs.com/amunamuna/p/8709491.html
+是一个vue项目小demo，基本的增删改。
+上传代码：
+$ git init
+$ git add .
+$ git commit -m "vue小demo"
+$ git remote add origin git@github.com:huikangxu/store.git
+$ git pull origin master  //总是无法git pull，是为啥？
+$ git push origin master
